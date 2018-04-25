@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Beconomical</string>
+    <string name="welcome_title">Good morning dear!</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="balance">BALANCE</string>
+    <string name="remaining">remaining</string>
+    <string name="title_home">Home</string>
+    <string name="expenses">EXPENSES</string>
+    <string name="take_photo">Camera</string>
+    <string name="load_picture">Choose from library</string>
+    <string name="income">INCOME</string>
+    <string name="title_calender">Calender</string>
+    <string name="title_reminders">Reminders</string>
+    <string name="Accessories">Accessories</string>
+    <string name="Bill">Bill</string>
+    <string name="Books">Books</string>
+    <string name="Car">Car</string>
+    <string name="Children">Children</string>
+    <string name="title_activity_add_transaction">Add Transaction</string>
+    <string name="Clothing">Clothing</string>
+    <string name="Cosmetics">Cosmetics</string>
+    <string name="Donation">Donation</string>
+    <string name="Education">Education</string>
+    <string name="Fitness">Fitness</string>
+    <string name="Food_Drinks">Food &amp; Drinks</string>
+    <string name="Fuel">Fuel</string>
+    <string name="Games">Games</string>
+    <string name="Gifts">Gifts</string>
+    <string name="Health">Health</string>
+    <string name="Holidays_Hotels">Holidays &amp; Hotel</string>
+    <string name="Investment">Investment</string>
+    <string name="Other">Other</string>
+    <string name="PC">PC &amp; Gadget</string>
+    <string name="Personal">Personal</string>
+    <string name="Pets">Pets</string>
+    <string name="Rent">Rent</string>
+    <string name="Tax">Tax</string>
+    <string name="Loan">Loan</string>
+    <string name="Salary">Salary</string>
+    <string name="Transport">Transport</string>
+    <string name="save">Save</string>
+    <string name="sugar">Sugar ORM Aplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
